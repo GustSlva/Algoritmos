@@ -1,2 +1,2 @@
 # Algoritmos
-Repositorio da materia de algoritmos
+Repositorio da matéria de algoritmos
